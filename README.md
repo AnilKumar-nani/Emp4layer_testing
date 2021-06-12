@@ -1,6 +1,6 @@
 # Emp4layer_testing
 
-Requirement is to write 4 layer employee program by conncting with database and to test with junit.
+Requirement is to write 4 layer employee program by connecting with database and to test with junit.
 Here, I added 8 class which contains their own details
 
 The Emp class contains the details of the employee like their name, desig, sal , emailid etc.
